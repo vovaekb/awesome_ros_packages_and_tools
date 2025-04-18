@@ -82,9 +82,13 @@ ROS2 Package for point cloud segmentation using PCL library. This repository con
 ## Localization, navigation 
 **apriltag_detector**
 
+This ROS 2 node uses the AprilTag library to detect AprilTags in images and publish their pose, id and additional metadata.
+
 [github](https://github.com/christianrauch/apriltag_ros)
 
 **wayp_plan_tools**
+
+Waypoint and planner tools for ROS 2 with minimal dependencies.
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/jkk-research/wayp_plan_tools&ved=2ahUKEwil0rL0qt-MAxUCA9sEHY3PMqYQjjh6BAgiEAE&usg=AOvVaw3n9iQt_tYo-6B5lt9VyMsl)
 
@@ -130,11 +134,6 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 RSL is a collection of C++17 utilities for ROS projects.
 
 [github](https://github.com/PickNikRobotics/RSL)
-
-## Misc
-**assignment1_exp_rob_lab**
-
-[github](https://github.com/karim7tr/Experimental_Robotics_assignment_1)
 
 ## ROS1
 **MiniROS cpp distribution**
