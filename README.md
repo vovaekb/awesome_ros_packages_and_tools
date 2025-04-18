@@ -98,6 +98,12 @@ Coverage Path Planning for ROS2 Robots. Extends the Fields2Cover (F2C) library, 
 
 [github](https://github.com/open-navigation/opennav_coverage)
 
+**FlexCloud**
+
+modular tool for direct georeferencing and drift correction of point cloud maps. It enables the georeferencing of an existing point cloud map created only from inertial sensor data (e.g. LiDAR) by the use of the corresponding GNSS data.
+
+[github](https://github.com/TUMFTM/FlexCloud)
+
 ## Useful tools
 **ros2bag_tools**
 
