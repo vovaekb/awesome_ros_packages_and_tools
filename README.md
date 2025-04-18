@@ -54,12 +54,6 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 [github](https://github.com/ARTenshi/robovision_ros2/tree/main?tab=readme-ov-file)
 
 ## Point clouds
-**pointcloud_to_grid**
-
-**ros2_pcl_segmentation**
-
-**pcdet_ros2**
-
 ROS 2 Wrapper for OpenPCDet (LIDAR-based 3D Object detection)
 
 [github](https://github.com/pradhanshrijal/pcdet_ros2)
@@ -90,5 +84,6 @@ RSL is a collection of C++17 utilities for ROS projects.
 
 [github](https://github.com/karim7tr/Experimental_Robotics_assignment_1)
 
+## ROS1
 standalone version of C++17 ROS1 client, which does not need boost, catkin or any complicated external library
 [github](https://github.com/dkargin/miniroscpp)
