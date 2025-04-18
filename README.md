@@ -6,11 +6,16 @@
 
 ## Messages, topics
 **topic_tools**
+
+Tools for directing, throttling, selecting, and otherwise manipulating ROS 2 topics at a meta-level. 
+
 [github](https://github.com/ros-tooling/topic_tools)
 
 ## Transformations 
 **angles**
+
 This package provides a set of simple math utilities to work with angles.
+
 [github](https://github.com/ros/angles)
 
 ## Logging
