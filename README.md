@@ -23,7 +23,7 @@ This package provides a set of simple math utilities to work with angles.
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/fujitatomoya/rcl_logging_syslog&ved=2ahUKEwjY16uqq9-MAxXFQ_EDHSVRCsUQjjh6BAgKEAE&usg=AOvVaw3Vi9GYtN_GbBUxQr6GsDxr)
 
-Discourse thread (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discourse.ros.org/t/ros-2-log-system-meets-rsyslog-and-fluentbit/39280&ved=2ahUKEwjY16uqq9-MAxXFQ_EDHSVRCsUQFnoECCwQAQ&usg=AOvVaw1dRbfujPUXGrdwbKFdgGEK)
+[Discourse thread](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discourse.ros.org/t/ros-2-log-system-meets-rsyslog-and-fluentbit/39280&ved=2ahUKEwjY16uqq9-MAxXFQ_EDHSVRCsUQFnoECCwQAQ&usg=AOvVaw1dRbfujPUXGrdwbKFdgGEK)
 
 ## Introspection, debugging
 **ros2_tracing**
