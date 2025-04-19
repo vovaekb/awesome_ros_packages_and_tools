@@ -104,6 +104,12 @@ modular tool for direct georeferencing and drift correction of point cloud maps.
 
 [github](https://github.com/TUMFTM/FlexCloud)
 
+**mogi_trajectory_server**
+
+Trajectory visualization for ROS2 with pretty much the same functionality as hector_trajectory_server for ROS1
+
+[github](https://github.com/MOGI-ROS/mogi_trajectory_server)
+
 ## Useful tools
 **ros2bag_tools**
 
