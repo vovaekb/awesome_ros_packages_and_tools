@@ -147,6 +147,12 @@ RSL is a collection of C++17 utilities for ROS projects.
 
 [github](https://github.com/PickNikRobotics/RSL)
 
+**ROS 2 Environment Manager for VS Code**
+
+Visual Studio Code extension that helps you manage isolated ROS2 environments with ease — start, stop, switch, and interact with them directly from your editor.
+
+[github](https://github.com/SakshayMahna/ros2env)
+
 ## ROS1
 **MiniROS cpp distribution**
 
