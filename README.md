@@ -110,6 +110,11 @@ Trajectory visualization for ROS2 with pretty much the same functionality as hec
 
 [github](https://github.com/MOGI-ROS/mogi_trajectory_server)
 
+**collision_restraint**
+ROS2 module to try to prohibit rectangular robots from driving into obstacles (PointCloud2 points) by restraining 2D twist command velocities.
+[Discourse thread](https://discourse.ros.org/t/collision-restraint-a-ros2-package-to-stop-your-robot-driving-into-things/43328)
+[github](https://github.com/AlexReimann/collision_restraint)
+
 ## Useful tools
 **ros2bag_tools**
 
