@@ -115,6 +115,13 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 [Discourse thread](https://discourse.ros.org/t/collision-restraint-a-ros2-package-to-stop-your-robot-driving-into-things/43328)
 [github](https://github.com/AlexReimann/collision_restraint)
 
+## HRI
+
+**ROSGPT**
+ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you are interested in integrating LLM in your robotics projects.
+
+[github](https://github.com/aniskoubaa/rosgpt)
+
 ## Useful tools
 **ros2bag_tools**
 
