@@ -64,6 +64,10 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 
 [github](https://github.com/ARTenshi/robovision_ros2/tree/main?tab=readme-ov-file)
 
+**ros2-object-detection-pipeline**
+ROS 2 Phone Camera Object Detection with YOLO (and Visualization)
+[github](https://github.com/ShahazadAbdulla/ros2-object-detection-pipeline)
+
 ## Point clouds
 ROS 2 Wrapper for OpenPCDet (LIDAR-based 3D Object detection)
 
