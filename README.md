@@ -74,14 +74,18 @@ ROS 2 Wrapper for OpenPCDet (LIDAR-based 3D Object detection)
 [github](https://github.com/pradhanshrijal/pcdet_ros2)
 
 **pointcloud_to_grid**
-[github](https://github.com/jkk-research/pointcloud_to_grid)
 
 converts sensor_msgs/PointCloud2 LIDAR data to nav_msgs/OccupancyGrid 2D map data based on intensity and / or height.
 
+[github](https://github.com/jkk-research/pointcloud_to_grid)
+
+
 **ros2_pcl_segmentation**
-[github](https://github.com/CDonosoK/ros2_pcl_segmentation)
 
 ROS2 Package for point cloud segmentation using PCL library. This repository contains multiple segmentation algorithms for point clouds.
+
+[github](https://github.com/CDonosoK/ros2_pcl_segmentation)
+
 
 ## Localization, navigation 
 **apriltag_detector**
@@ -115,8 +119,11 @@ Trajectory visualization for ROS2 with pretty much the same functionality as hec
 [github](https://github.com/MOGI-ROS/mogi_trajectory_server)
 
 **collision_restraint**
+
 ROS2 module to try to prohibit rectangular robots from driving into obstacles (PointCloud2 points) by restraining 2D twist command velocities.
+
 [Discourse thread](https://discourse.ros.org/t/collision-restraint-a-ros2-package-to-stop-your-robot-driving-into-things/43328)
+
 [github](https://github.com/AlexReimann/collision_restraint)
 
 ## HRI
@@ -173,4 +180,5 @@ Visual Studio Code extension that helps you manage isolated ROS2 environments wi
 **MiniROS cpp distribution**
 
 standalone version of C++17 ROS1 client, which does not need boost, catkin or any complicated external library
+
 [github](https://github.com/dkargin/miniroscpp)
