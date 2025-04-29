@@ -133,6 +133,14 @@ ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you ar
 
 [github](https://github.com/aniskoubaa/rosgpt)
 
+## Visualization
+
+**ROSplat**
+
+The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
+
+[github](https://github.com/shadygm/ROSplat)
+
 ## Useful tools
 **ros2bag_tools**
 
