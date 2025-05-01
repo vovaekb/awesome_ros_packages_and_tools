@@ -41,6 +41,12 @@ This package provides a set of simple math utilities to work with angles.
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/MOLAorg/mola_lidar_odometry&ved=2ahUKEwi7otnikt-MAxU6RfEDHbPELVEQjjh6BAgWEAE&usg=AOvVaw1Q7O5aQivlBnnsXEh6md6o)
 
+**GenZ-ICP**
+
+A Robust LiDAR Odometry ROS 2 package
+
+[github](https://github.com/cocel-postech/genz-icp)
+
 **omnivision**
 
 ROS2 package for fusing 360° equirectangular images with 3D LiDAR data.
