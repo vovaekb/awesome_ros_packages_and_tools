@@ -190,6 +190,14 @@ Visual Studio Code extension that helps you manage isolated ROS2 environments wi
 
 [github](https://github.com/SakshayMahna/ros2env)
 
+## Micro ROS
+
+**ros2_imu**
+
+ESP32 based IMU node for ROS2 using Micro ROS.
+
+[github](https://github.com/syedmohiuddinzia/ros2_imu)
+
 ## ROS1
 **MiniROS cpp distribution**
 
