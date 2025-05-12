@@ -190,6 +190,14 @@ Visual Studio Code extension that helps you manage isolated ROS2 environments wi
 
 [github](https://github.com/SakshayMahna/ros2env)
 
+## Industrial robots
+
+**ROS 2: Sim-to-Real Robot Control**
+
+repository provides ready-to-use ROS2 (Humble) packages to execute simple programs and sequences and control different Industrial and Collaborative Robots using ROS 2.
+
+[github](https://github.com/IFRA-Cranfield/ros2_SimRealRobotControl)
+
 ## Micro ROS
 
 **ros2_imu**
