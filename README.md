@@ -31,6 +31,13 @@ This package provides a set of simple math utilities to work with angles.
 
 [Discourse thread](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://discourse.ros.org/t/ros-2-log-system-meets-rsyslog-and-fluentbit/39280&ved=2ahUKEwjY16uqq9-MAxXFQ_EDHSVRCsUQFnoECCwQAQ&usg=AOvVaw1dRbfujPUXGrdwbKFdgGEK)
 
+**diagnostic_remote_logging**
+Package allows to log diagnostics data from ROS 2 systems directly to an InfluxDB. This enables long-term trend analysis, visualisation in Grafana, and makes it easier to monitor larger deployments across multiple systems.
+
+[Discourse](https://discourse.ros.org/t/diagnostic-remote-logging-announcement/43696)
+
+[github](https://github.com/ros/diagnostics/tree/ros2-humble/diagnostic_remote_logging)
+
 ## Introspection, debugging
 **ros2_tracing**
 
