@@ -81,6 +81,12 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 ROS 2 Phone Camera Object Detection with YOLO (and Visualization)
 [github](https://github.com/ShahazadAbdulla/ros2-object-detection-pipeline)
 
+**yolo_ros**
+
+ROS 2 wrap for YOLO models from Ultralytics to perform object detection and tracking, instance segmentation, human pose estimation and Oriented Bounding Box (OBB).
+
+[github](https://github.com/mgonzs13/yolo_ros)
+
 ## Point clouds
 ROS 2 Wrapper for OpenPCDet (LIDAR-based 3D Object detection)
 
