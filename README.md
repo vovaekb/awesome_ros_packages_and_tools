@@ -162,6 +162,12 @@ ROS 2 package provides a simulation of a conveyor belt in Gazebo Harmonic with R
 
 ## Visualization
 
+**bt_visualizer_pkg**
+
+Simple and intuitive graphical tool to visualize behaviour tree XML files
+
+[github](https://github.com/shivcc/bt_visualizer_pkg)
+
 **urdf-viz**
 Visualize URDF(Unified Robot Description Format) file. Viewer works on Windows/MacOS/Linux
 
