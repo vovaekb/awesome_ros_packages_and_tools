@@ -173,6 +173,12 @@ Visualize URDF(Unified Robot Description Format) file. Viewer works on Windows/M
 
 [github](https://github.com/openrr/urdf-viz)
 
+**rqt_frame_editor_plugin**
+rqt_frame_editor_plugin allows for easily manipulating frames very quickly by dragging them, changing parents, relative positions etc.
+
+[github](https://github.com/ipa320/rqt_frame_editor_plugin)
+
+
 **ROSplat**
 
 The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
