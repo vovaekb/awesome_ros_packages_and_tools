@@ -196,6 +196,12 @@ script - wrapper around fzf to make it easier to use ROS2
 
 [github](https://github.com/xuyuan/fri)
 
+**dynamic_reconfigure**
+
+ROS 2 plugin that integrates with RViz2 to provide a GUI-based interface for dynamically reconfiguring ROS 2 node parameters. This tool allows users to list available nodes, inspect configurable parameters, and modify their values in real-time without restarting the nodes.
+
+[github](https://github.com/shahjesal15/dynamic_reconfigure)
+
 **ros2mock**
 
 Tool for mocking ROS 2 services and actions.
