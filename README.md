@@ -44,6 +44,14 @@ Package allows to log diagnostics data from ROS 2 systems directly to an InfluxD
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)
 
 ## Perception 
+
+**Focus Peaking ROS2**
+
+ROS 2 package assists in manually focusing lenses on machine vision cameras and evaluating image sharpness. It highlights sharp edges directly in the image display, allowing users to visually determine focus quality and identify which parts of the scene are in focus.
+
+[demo video](https://www.youtube.com/watch?v=Wy3PcOUVC_Y)
+[github](https://github.com/MRo47/ros2_focus_peaking)
+
 **mola_lidar_odometry**
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/MOLAorg/mola_lidar_odometry&ved=2ahUKEwi7otnikt-MAxU6RfEDHbPELVEQjjh6BAgWEAE&usg=AOvVaw1Q7O5aQivlBnnsXEh6md6o)
