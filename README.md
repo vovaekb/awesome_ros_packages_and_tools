@@ -96,6 +96,15 @@ ROS 2 wrap for YOLO models from Ultralytics to perform object detection and trac
 [github](https://github.com/mgonzs13/yolo_ros)
 
 ## Point clouds
+
+**pointcloud_concatenate_ros2**
+
+Package provides a node which can be used for concatenating several pointclouds into one.
+
+[github](https://github.com/atinfinity/pointcloud_concatenate_ros2)
+
+
+**pcdet_ros2**
 ROS 2 Wrapper for OpenPCDet (LIDAR-based 3D Object detection)
 
 [github](https://github.com/pradhanshrijal/pcdet_ros2)
@@ -231,7 +240,7 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 
 ## Development tools
 
-**launch_graph **
+**launch_graph**
 
 ROS 2 tool that visualizes the structure of your launch files. It recursively finds included launch files and node actions, then generates a visual graph using Graphviz.
 
