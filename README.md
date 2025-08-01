@@ -211,6 +211,12 @@ The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
 [github](https://github.com/shadygm/ROSplat)
 
 ## Useful tools
+**ros2_unbag**
+
+A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
+
+[github](https://github.com/ika-rwth-aachen/ros2_unbag/tree/main)
+
 **ros2bag_tools**
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/AIT-Assistive-Autonomous-Systems/ros2bag_tools&ved=2ahUKEwiEt8X9qt-MAxX9QvEDHfCuMMIQjjh6BAgrEAE&usg=AOvVaw0xUwam50-vry_bime_V8us)
