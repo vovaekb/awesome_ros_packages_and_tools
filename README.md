@@ -17,12 +17,14 @@ ROS2 package with headers-only library that implements a message synchronization
 
 [github](https://github.com/ros-misc-utilities/flex_sync)
 
+
 ## Transformations 
 **angles**
 
 This package provides a set of simple math utilities to work with angles.
 
 [github](https://github.com/ros/angles)
+
 
 ## Logging
 **rcl_logging_syslog**
@@ -38,10 +40,12 @@ Package allows to log diagnostics data from ROS 2 systems directly to an InfluxD
 
 [github](https://github.com/ros/diagnostics/tree/ros2-humble/diagnostic_remote_logging)
 
+
 ## Introspection, debugging
 **ros2_tracing**
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)
+
 
 ## Control
 
@@ -50,6 +54,7 @@ Package allows to log diagnostics data from ROS 2 systems directly to an InfluxD
 ROS2 package implementing a teleoperation interface using QT.
 
 [github](https://github.com/CDonosoK/ros2_teleoperation)
+
 
 ## Perception 
 
@@ -88,6 +93,7 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 
 [github](https://github.com/CDonosoK/ros2_camera_lidar_fusion)
 
+
 ## Computer Vision
 **robovision_ros2**
 
@@ -102,6 +108,7 @@ ROS 2 Phone Camera Object Detection with YOLO (and Visualization)
 ROS 2 wrap for YOLO models from Ultralytics to perform object detection and tracking, instance segmentation, human pose estimation and Oriented Bounding Box (OBB).
 
 [github](https://github.com/mgonzs13/yolo_ros)
+
 
 ## Point clouds
 
@@ -170,12 +177,14 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 
 [github](https://github.com/AlexReimann/collision_restraint)
 
-## HRI
+
+## Human-Robot Interaction 
 
 **ROSGPT**
 ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you are interested in integrating LLM in your robotics projects.
 
 [github](https://github.com/aniskoubaa/rosgpt)
+
 
 ## Simulation 
 
@@ -184,6 +193,7 @@ ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you ar
 ROS 2 package provides a simulation of a conveyor belt in Gazebo Harmonic with ROS 2 interface for control
 
 [github](https://github.com/mzahana/conveyor_sim_ros2)
+
 
 ## Visualization
 
@@ -209,6 +219,7 @@ rqt_frame_editor_plugin allows for easily manipulating frames very quickly by dr
 The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
 
 [github](https://github.com/shadygm/ROSplat)
+
 
 ## Useful tools
 **ros2_unbag**
@@ -252,7 +263,14 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 
 [github](https://github.com/VedantC2307/ros2-android-sensor-bridge)
 
+
 ## Development tools
+
+**ROS 2 Project Builder**
+
+CLI-based tool that automates the creation of ROS 2 packages and node structures.
+
+[github](https://github.com/Madwesh-india/ros2-project-builder)
 
 **launch_graph**
 
