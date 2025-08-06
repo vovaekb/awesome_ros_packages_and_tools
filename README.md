@@ -4,7 +4,7 @@
 ## General 
 
 
-## Messages, topics
+## 📞 Messages, topics
 **topic_tools**
 
 Tools for directing, throttling, selecting, and otherwise manipulating ROS 2 topics at a meta-level. 
@@ -18,7 +18,7 @@ ROS2 package with headers-only library that implements a message synchronization
 [github](https://github.com/ros-misc-utilities/flex_sync)
 
 
-## Transformations 
+## 🔄 Transformations 
 **angles**
 
 This package provides a set of simple math utilities to work with angles.
