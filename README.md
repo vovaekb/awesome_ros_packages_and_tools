@@ -26,7 +26,7 @@ This package provides a set of simple math utilities to work with angles.
 [github](https://github.com/ros/angles)
 
 
-## Logging
+## ✍️ Logging
 **rcl_logging_syslog**
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/fujitatomoya/rcl_logging_syslog&ved=2ahUKEwjY16uqq9-MAxXFQ_EDHSVRCsUQjjh6BAgKEAE&usg=AOvVaw3Vi9GYtN_GbBUxQr6GsDxr)
@@ -41,13 +41,13 @@ Package allows to log diagnostics data from ROS 2 systems directly to an InfluxD
 [github](https://github.com/ros/diagnostics/tree/ros2-humble/diagnostic_remote_logging)
 
 
-## Introspection, debugging
+## 🔍 Introspection, debugging
 **ros2_tracing**
 
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)
 
 
-## Control
+## 🕹️ Control
 
 **ros2_teleoperation**
 
@@ -56,7 +56,7 @@ ROS2 package implementing a teleoperation interface using QT.
 [github](https://github.com/CDonosoK/ros2_teleoperation)
 
 
-## Perception 
+## 👁️ Perception 
 
 **Focus Peaking ROS2**
 
@@ -94,7 +94,7 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 [github](https://github.com/CDonosoK/ros2_camera_lidar_fusion)
 
 
-## Computer Vision
+## 📷 Computer Vision
 **robovision_ros2**
 
 [github](https://github.com/ARTenshi/robovision_ros2/tree/main?tab=readme-ov-file)
@@ -110,7 +110,7 @@ ROS 2 wrap for YOLO models from Ultralytics to perform object detection and trac
 [github](https://github.com/mgonzs13/yolo_ros)
 
 
-## Point clouds
+## ☁️ Point clouds
 
 **pointcloud_concatenate_ros2**
 
@@ -138,7 +138,7 @@ ROS2 Package for point cloud segmentation using PCL library. This repository con
 [github](https://github.com/CDonosoK/ros2_pcl_segmentation)
 
 
-## Localization, navigation 
+## 🗺️ Localization, navigation 
 **apriltag_detector**
 
 This ROS 2 node uses the AprilTag library to detect AprilTags in images and publish their pose, id and additional metadata.
@@ -178,7 +178,7 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 [github](https://github.com/AlexReimann/collision_restraint)
 
 
-## Human-Robot Interaction 
+## 👱🤖 Human-Robot Interaction 
 
 **ROSGPT**
 ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you are interested in integrating LLM in your robotics projects.
@@ -186,7 +186,7 @@ ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you ar
 [github](https://github.com/aniskoubaa/rosgpt)
 
 
-## Simulation 
+## 🎲 Simulation 
 
 **Conveyor Simulation ROS 2 Package**
 
@@ -195,7 +195,7 @@ ROS 2 package provides a simulation of a conveyor belt in Gazebo Harmonic with R
 [github](https://github.com/mzahana/conveyor_sim_ros2)
 
 
-## Visualization
+## 🖼️ Visualization
 
 **bt_visualizer_pkg**
 
@@ -221,7 +221,7 @@ The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
 [github](https://github.com/shadygm/ROSplat)
 
 
-## Useful tools
+## ⚙️ Useful tools
 **ros2_unbag**
 
 A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
@@ -264,7 +264,7 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 [github](https://github.com/VedantC2307/ros2-android-sensor-bridge)
 
 
-## Development tools
+## 👷 Development tools
 
 **ROS 2 Project Builder**
 
@@ -290,7 +290,7 @@ Visual Studio Code extension that helps you manage isolated ROS2 environments wi
 
 [github](https://github.com/SakshayMahna/ros2env)
 
-## Testing 
+## ✅ Testing 
 
 **rtest**
 
@@ -298,7 +298,7 @@ ROS 2 Unit Tests Framework.
 
 [github](https://github.com/Beam-and-Spyrosoft/rtest)
 
-## Industrial robots
+## 🏭 Industrial robots
 
 **ROS 2: Sim-to-Real Robot Control**
 
@@ -314,7 +314,7 @@ ESP32 based IMU node for ROS2 using Micro ROS.
 
 [github](https://github.com/syedmohiuddinzia/ros2_imu)
 
-## ROS1
+## 1️⃣ ROS1
 **MiniROS cpp distribution**
 
 standalone version of C++17 ROS1 client, which does not need boost, catkin or any complicated external library
