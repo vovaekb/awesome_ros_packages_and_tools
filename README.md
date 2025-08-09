@@ -112,6 +112,12 @@ ROS 2 wrap for YOLO models from Ultralytics to perform object detection and trac
 
 ## ☁️ Point clouds
 
+**PCL Point Cloud Processing Pipeline**
+
+A configurable C++ library for point cloud processing built on top of the Point Cloud Library (PCL).
+
+[github](https://github.com/Muhammad540/pcl-processing-pipeline)
+
 **pointcloud_concatenate_ros2**
 
 Package provides a node which can be used for concatenating several pointclouds into one.
