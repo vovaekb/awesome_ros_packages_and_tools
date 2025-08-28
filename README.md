@@ -56,6 +56,11 @@ ROS2 package implementing a teleoperation interface using QT.
 
 [github](https://github.com/CDonosoK/ros2_teleoperation)
 
+**LGDXRobot Cloud**
+
+Robot management system for Automated Guided Vehicles (AGVs), designed with a focus on flexibility and security. It can monitor the status of robots in real-time and manage automated tasks for transportation and logistics.
+
+[github](https://github.com/yukaitung/lgdxrobot-cloud)
 
 ## 👁️ Perception 
 
@@ -304,6 +309,14 @@ Visual Studio Code extension that helps you manage isolated ROS2 environments wi
 ROS 2 Unit Tests Framework.
 
 [github](https://github.com/Beam-and-Spyrosoft/rtest)
+
+## 🔀 Async / threading
+
+**ICEY**
+
+New client API for modern asynchronous programming in the Robot Operating System (ROS) 2. It uses C++20 coroutines with async/await syntax for service calls and TF lookups.
+
+[github](https://github.com/iv461/icey)
 
 ## 🏭 Industrial robots
 
