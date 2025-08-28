@@ -326,7 +326,7 @@ repository provides ready-to-use ROS2 (Humble) packages to execute simple progra
 
 [github](https://github.com/IFRA-Cranfield/ros2_SimRealRobotControl)
 
-## Micro ROS
+## 🔌Micro ROS
 
 **ros2_imu**
 
