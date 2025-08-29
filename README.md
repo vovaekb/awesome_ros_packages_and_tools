@@ -106,6 +106,7 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 [github](https://github.com/ARTenshi/robovision_ros2/tree/main?tab=readme-ov-file)
 
 **ros2-object-detection-pipeline**
+
 ROS 2 Phone Camera Object Detection with YOLO (and Visualization)
 [github](https://github.com/ShahazadAbdulla/ros2-object-detection-pipeline)
 
@@ -115,6 +116,11 @@ ROS 2 wrap for YOLO models from Ultralytics to perform object detection and trac
 
 [github](https://github.com/mgonzs13/yolo_ros)
 
+**ros2-tensorflow**
+
+ROS2 wrapper for Tensorflow aloowing to load pretrained neural networks and perform inference through ROS2 interfaces.
+
+[github](https://github.com/alsora/ros2-tensorflow)
 
 ## ☁️ Point clouds
 
