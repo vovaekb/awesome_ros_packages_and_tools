@@ -48,13 +48,14 @@ Package allows to log diagnostics data from ROS 2 systems directly to an InfluxD
 [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)
 
 
-## 🕹️ Control
+## 🕹️ Control, monitoring
 
 **ros2_teleoperation**
 
 ROS2 package implementing a teleoperation interface using QT.
 
 [github](https://github.com/CDonosoK/ros2_teleoperation)
+
 
 **LGDXRobot Cloud**
 
