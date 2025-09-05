@@ -56,6 +56,11 @@ ROS2 package implementing a teleoperation interface using QT.
 
 [github](https://github.com/CDonosoK/ros2_teleoperation)
 
+**Telegraf Resource Monitor**
+
+A ROS 2 package that integrates Telegraf with ROS 2 to monitor system resources and publish them as ROS messages.
+
+[github](https://github.com/Bart-van-Ingen/telegraf_resource_monitor)
 
 **LGDXRobot Cloud**
 
@@ -326,6 +331,12 @@ New client API for modern asynchronous programming in the Robot Operating System
 [github](https://github.com/iv461/icey)
 
 ## 🏭 Industrial robots
+
+**reductstore_agent**
+
+ROS 2 node that records selected topics into ReductStore, a high-performance storage and streaming solution. ReductStore is an ELT-based system for robotics and industrial IoT data acquisition.
+
+[github](https://github.com/reductstore/reductstore_agent)
 
 **ROS 2: Sim-to-Real Robot Control**
 
