@@ -17,6 +17,13 @@ ROS2 package with headers-only library that implements a message synchronization
 
 [github](https://github.com/ros-misc-utilities/flex_sync)
 
+## Nodes, services
+
+**ros2systemd**
+
+A ROS2 command extension for managing ROS2 launches and nodes as systemd services.
+
+[github](https://github.com/jerry73204/ros2systemd)
 
 ## 🔄 Transformations 
 **angles**
