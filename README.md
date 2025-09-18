@@ -251,6 +251,12 @@ The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
 
 [github](https://github.com/shadygm/ROSplat)
 
+## 🧮  Mathematics, numeric operations
+**refx**
+
+modern header-only C++ library designed for mobile robotics and navigation. Its core philosophy is to leverage the C++ type system to provide compile-time safety for all geometric and geodetic calculations
+
+[github](https://github.com/mosaico-labs/refx)
 
 ## ⚙️ Useful tools
 **ros2_unbag**
