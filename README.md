@@ -114,6 +114,12 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 
 
 ## 📷 Computer Vision
+**dinov3_ros**
+
+ROS 2 nodes for performing multiple vision tasks—such as object detection, semantic segmentation, and depth estimation—using Meta’s DINOv3 as the backbone.
+
+[github](https://github.com/Raessan/dinov3_ros)
+
 **robovision_ros2**
 
 [github](https://github.com/ARTenshi/robovision_ros2/tree/main?tab=readme-ov-file)
