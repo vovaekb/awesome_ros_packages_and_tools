@@ -114,6 +114,13 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 
 
 ## 📷 Computer Vision
+
+**opencv_ros2**
+
+OpenCV Applications with ROS2
+
+[github](https://github.com/jeffreyttc/opencv_ros2)
+
 **dinov3_ros**
 
 ROS 2 nodes for performing multiple vision tasks—such as object detection, semantic segmentation, and depth estimation—using Meta’s DINOv3 as the backbone.
@@ -121,6 +128,7 @@ ROS 2 nodes for performing multiple vision tasks—such as object detection, sem
 [github](https://github.com/Raessan/dinov3_ros)
 
 **robovision_ros2**
+Examples for an introduction to Robot Vision.
 
 [github](https://github.com/ARTenshi/robovision_ros2/tree/main?tab=readme-ov-file)
 
