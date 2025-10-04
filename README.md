@@ -351,6 +351,12 @@ ROS 2 Unit Tests Framework.
 
 ## Language models
 
+**ROS MCP Server 🧠⇄🤖**
+
+Connect AI models like Claude & GPT with robots using MCP and ROS.
+
+[github](https://github.com/robotmcp/ros-mcp-server)
+
 **Nav2 MCP Server**
 
 An MCP (Model Context Protocol) server that provides tools and resources to control and monitor robots using Nav2.
