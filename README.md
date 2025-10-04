@@ -349,6 +349,14 @@ ROS 2 Unit Tests Framework.
 
 [github](https://github.com/Beam-and-Spyrosoft/rtest)
 
+## Language models
+
+**Nav2 MCP Server**
+
+An MCP (Model Context Protocol) server that provides tools and resources to control and monitor robots using Nav2.
+
+[github](https://github.com/ajtudela/nav2_mcp_server)
+
 ## 🔀 Async / threading
 
 **ICEY**
