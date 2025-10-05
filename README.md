@@ -385,7 +385,13 @@ repository provides ready-to-use ROS2 (Humble) packages to execute simple progra
 
 [github](https://github.com/IFRA-Cranfield/ros2_SimRealRobotControl)
 
-## 🔌Micro ROS
+## 🔌 Serial communication, microcontrollers
+
+**Crosstalk**
+
+small single-header C++ 17 library to facilitate communication between microcontrollers and host computers over serial connections.
+
+[github](https://github.com/StefanFabian/crosstalk)
 
 **ros2_imu**
 
