@@ -273,6 +273,12 @@ modern header-only C++ library designed for mobile robotics and navigation. Its 
 [github](https://github.com/mosaico-labs/refx)
 
 ## ⚙️ Useful tools
+
+**robotdatapy**
+Package designed to make accessing and manipulating robot/geometric data easy in Python.
+
+[github](https://github.com/mbpeterson70/robotdatapy)
+
 **ros2_unbag**
 
 A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
