@@ -57,6 +57,12 @@ Package allows to log diagnostics data from ROS 2 systems directly to an InfluxD
 
 ## 🕹️ Control, monitoring
 
+**ROSboard**
+
+ROS node that runs a web server on your robot. Run the node, point your web browser at http://your-robot-ip:8888/ and you get nice visualizations.
+
+[github](https://github.com/dheera/rosboard)
+
 **ros2_teleoperation**
 
 ROS2 package implementing a teleoperation interface using QT.
