@@ -353,6 +353,13 @@ Visual Studio Code extension that helps you manage isolated ROS2 environments wi
 
 [github](https://github.com/SakshayMahna/ros2env)
 
+**ament_ruff**
+
+Python linting and formatting based on ruff with ament integration.
+
+[github](https://github.com/swri-robotics/ament_ruff)
+
+
 ## ✅ Testing 
 
 **rtest**
