@@ -57,6 +57,13 @@ Package allows to log diagnostics data from ROS 2 systems directly to an InfluxD
 
 ## 🕹️ Control, monitoring
 
+**OpenTelemetry**
+
+A production-grade integration library for instrumenting ROS2 (Robot Operating System 2) applications with OpenTelemetry distributed tracing and observability capabilities. 
+
+[github](https://github.com/szobov/ros-opentelemetry)
+
+
 **ROSboard**
 
 ROS node that runs a web server on your robot. Run the node, point your web browser at http://your-robot-ip:8888/ and you get nice visualizations.
