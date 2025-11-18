@@ -63,6 +63,10 @@ A production-grade integration library for instrumenting ROS2 (Robot Operating S
 
 [github](https://github.com/szobov/ros-opentelemetry)
 
+**R'DASH**
+R’DASH (Robot Information Telemetry Transport Dashboard) is a cross-platform dashboard for real-time robot data visualization.
+
+[github](https://github.com/vamsi-karnam/rdash)
 
 **ROSboard**
 
