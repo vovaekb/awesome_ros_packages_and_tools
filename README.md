@@ -201,6 +201,14 @@ ROS2 Package for point cloud segmentation using PCL library. This repository con
 
 
 ## 🗺️ Localization, navigation 
+
+**ROS2 Planning System**
+
+Project whose objective is to provide Robotics developers with a reliable, simple, and efficient PDDL-based planning system.
+
+[github](https://github.com/PlanSys2/ros2_planning_system)
+[Wiki](https://plansys2.github.io/)
+
 **apriltag_detector**
 
 This ROS 2 node uses the AprilTag library to detect AprilTags in images and publish their pose, id and additional metadata.
