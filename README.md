@@ -326,6 +326,12 @@ ROS 2 plugin that integrates with RViz2 to provide a GUI-based interface for dyn
 
 [github](https://github.com/shahjesal15/dynamic_reconfigure)
 
+**sdf_to_urdf**
+
+A simple ROS 2 tool to convert SDF files to URDF using urdfdom and sdformat_urdf.
+
+[github](https://github.com/andreasBihlmaier/sdf_to_urdf)
+
 **ros2mock**
 
 Tool for mocking ROS 2 services and actions.
