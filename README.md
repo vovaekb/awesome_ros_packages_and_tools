@@ -462,11 +462,18 @@ ESP32 based IMU node for ROS2 using Micro ROS.
 
 [github](https://github.com/syedmohiuddinzia/ros2_imu)
 
-## Packages for Java
+## Packages for different languages
 **jros2**
+
 A ROS 2 library for Java. Uses Fast-DDS middleware. Fully compatible with other supported ROS 2 middlewares.
 
 [github](https://github.com/vovaekb/awesome_ros_packages_and_tools)
+
+**rclgo**
+
+ROS2 client library Golang wrapper.
+
+[github](https://github.com/merlindrones/rclgo)
 
 ## 1️⃣ ROS1
 **MiniROS cpp distribution**
