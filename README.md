@@ -434,7 +434,14 @@ repository provides ready-to-use ROS2 (Humble) packages to execute simple progra
 
 [github](https://github.com/IFRA-Cranfield/ros2_SimRealRobotControl)
 
-## 🔌 Serial communication, microcontrollers
+## 🔌 Serial communication, microcontrollers, hardware drivers
+
+**Qualcomm QRB-ROS**
+
+Collection of ROS packages that accelerate common robotics tasks on their hardware platforms providing the features such as hardware acceleration, zero copy and AI inference. Most of them are supported on Ubuntu and can be simply installed by “apt install xxx“.
+
+[Discourse](https://discourse.openrobotics.org/t/ros2-packages-based-on-qualcomm-devices/51245)
+[github](https://github.com/qualcomm-qrb-ros)
 
 **Crosstalk**
 
