@@ -307,11 +307,13 @@ modern header-only C++ library designed for mobile robotics and navigation. Its 
 ## ⚙️ Useful tools
 
 **synchros2**
+
 synchros2 enables a different, at times simpler approach to ROS 2 programming, particularly for those that come with a ROS 1 background.
 
 [github](https://github.com/bdaiinstitute/synchros2)
 
 **robotdatapy**
+
 Package designed to make accessing and manipulating robot/geometric data easy in Python.
 
 [github](https://github.com/mbpeterson70/robotdatapy)
