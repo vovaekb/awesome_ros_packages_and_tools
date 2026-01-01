@@ -76,6 +76,12 @@ R’DASH (Robot Information Telemetry Transport Dashboard) is a cross-platform d
 
 [github](https://github.com/vamsi-karnam/rdash)
 
+**ros2plot**
+
+terminal-based, real-time plotting tool for ROS2 topics
+
+[github](https://github.com/jeminism/ros2plot)
+
 **ROSboard**
 
 ROS node that runs a web server on your robot. Run the node, point your web browser at http://your-robot-ip:8888/ and you get nice visualizations.
