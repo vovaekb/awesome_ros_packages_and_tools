@@ -459,6 +459,13 @@ repository provides ready-to-use ROS2 (Humble) packages to execute simple progra
 
 ## 🔌 Serial communication, microcontrollers, hardware drivers
 
+**rplidar_ros2_driver**
+
+This is a heavily refactored, fault-tolerant ROS 2 driver for Slamtec RPLIDAR. Designed with a Lifecycle State Machine and Thread-Safe Architecture
+
+[github](https://github.com/frozenreboot/rplidar_ros2_driver)
+[Discourse](https://discourse.openrobotics.org/t/announcement-rplidar-ros2-driver-a-modern-c-c-17-driver-with-lifecycle-support/51601)
+
 **Qualcomm QRB-ROS**
 
 Collection of ROS packages that accelerate common robotics tasks on their hardware platforms providing the features such as hardware acceleration, zero copy and AI inference. Most of them are supported on Ubuntu and can be simply installed by “apt install xxx“.
