@@ -277,13 +277,19 @@ ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you ar
 [github](https://github.com/aniskoubaa/rosgpt)
 
 
-## 🎲 Simulation 
+## 🎲 Robot simulation,modelling
 
 **Conveyor Simulation ROS 2 Package**
 
 ROS 2 package provides a simulation of a conveyor belt in Gazebo Harmonic with ROS 2 interface for control
 
 [github](https://github.com/mzahana/conveyor_sim_ros2)
+
+**URDF Architect**
+
+State-of-the-art, web-based visual environment engineered for the seamless creation, manipulation, and export of Unified Robot Description Format (URDF) models.
+
+[github](https://github.com/OpenLegged/URDF-Architect)
 
 
 ## 🖼️ Visualization
