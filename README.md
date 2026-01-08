@@ -17,6 +17,14 @@ ROS2 package with headers-only library that implements a message synchronization
 
 [github](https://github.com/ros-misc-utilities/flex_sync)
 
+**proto2ros**
+
+Tool providing an interoperability bridge between Protobuf messages and ROS messages. proto2ros generates ROS 2 message definitions and bi-directional conversion code directly from .proto files.
+
+[Discourse](https://discourse.openrobotics.org/t/easier-protobuf-and-ros-2-integration/51712)
+
+[github](https://github.com/bdaiinstitute/proto2ros)
+
 ## Nodes, services
 
 **ros2systemd**
