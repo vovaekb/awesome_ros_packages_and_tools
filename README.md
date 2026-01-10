@@ -300,7 +300,13 @@ State-of-the-art, web-based visual environment engineered for the seamless creat
 [github](https://github.com/OpenLegged/URDF-Architect)
 
 
-## 🖼️ Visualization
+## 🖼️ Visualization, GUI
+
+**RQml**
+
+Modern, QML-based robotics visualization and control toolbox for ROS 2!
+
+[github](https://github.com/StefanFabian/rqml)
 
 **bt_visualizer_pkg**
 
@@ -324,6 +330,7 @@ rqt_frame_editor_plugin allows for easily manipulating frames very quickly by dr
 The Online ROS2-Based Gaussian Splatting-Enabled Visualizer
 
 [github](https://github.com/shadygm/ROSplat)
+[Discourse](https://discourse.openrobotics.org/t/goodbye-rqt-hello-rqml-new-release/51697)
 
 ## 🧮  Mathematics, numeric operations
 **refx**
