@@ -277,7 +277,15 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 [github](https://github.com/AlexReimann/collision_restraint)
 
 
-## 👜 Work with bag files bag
+## 👜 Work with bag files
+
+**bag2mesh**
+
+powerful, standalone Python tool designed to convert ROS Bag files (specifically from RGB-D cameras like Intel RealSense) into high-quality 3D Meshes (.ply).
+
+
+**ROS2 Bag Manager**
+
 
 **ros2_unbag**
 
