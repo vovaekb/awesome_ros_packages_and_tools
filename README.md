@@ -283,9 +283,16 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 
 powerful, standalone Python tool designed to convert ROS Bag files (specifically from RGB-D cameras like Intel RealSense) into high-quality 3D Meshes (.ply).
 
+[github](https://github.com/alex9978/bag2mesh)
+
 
 **ROS2 Bag Manager**
 
+Simple, web-based tool for managing ROS2 bag files. Built with FastAPI and HTMX for a clean, responsive interface.
+
+[github](https://github.com/ilisparrow/ros2bag_manager)
+
+[Discourse](https://discourse.openrobotics.org/t/announcement-ros2-bag-manager/51772)
 
 **ros2_unbag**
 
