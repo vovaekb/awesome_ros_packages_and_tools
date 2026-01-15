@@ -50,61 +50,23 @@ This package provides a set of simple math utilities to work with angles.
 
 
 ## 🔍 Introspection, debugging
-**Tf_tree_terminal**
-
-Simple ROS 2 Python tool that prints the current TF tree to your terminal using a recursive "folder-like" structure.
-
-[github](https://github.com/Tanneguydv/tf_tree_terminal)
-
-[Discourse](https://discourse.openrobotics.org/t/tf-tree-terminal/51494)
-
-**ros2_tracing**
-
-[github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)
+| Title | Description | Links |
+| ------------- | ------------- | ------------- |
+|**Tf_tree_terminal** | Simple ROS 2 Python tool that prints the current TF tree to your terminal using a recursive "folder-like" structure. | [github](https://github.com/Tanneguydv/tf_tree_terminal) , [Discourse](https://discourse.openrobotics.org/t/tf-tree-terminal/51494) |
+|**ros2_tracing** | | [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)|
 
 
 ## 🕹️ Control, monitoring
 
-**OpenTelemetry**
-
-A production-grade integration library for instrumenting ROS2 (Robot Operating System 2) applications with OpenTelemetry distributed tracing and observability capabilities. 
-
-[github](https://github.com/szobov/ros-opentelemetry)
-
-**R'DASH**
-R’DASH (Robot Information Telemetry Transport Dashboard) is a cross-platform dashboard for real-time robot data visualization.
-
-[github](https://github.com/vamsi-karnam/rdash)
-
-**ros2plot**
-
-terminal-based, real-time plotting tool for ROS2 topics
-
-[github](https://github.com/jeminism/ros2plot)
-
-**ROSboard**
-
-ROS node that runs a web server on your robot. Run the node, point your web browser at http://your-robot-ip:8888/ and you get nice visualizations.
-
-[github](https://github.com/dheera/rosboard)
-
-**ros2_teleoperation**
-
-ROS2 package implementing a teleoperation interface using QT.
-
-[github](https://github.com/CDonosoK/ros2_teleoperation)
-
-**Telegraf Resource Monitor**
-
-A ROS 2 package that integrates Telegraf with ROS 2 to monitor system resources and publish them as ROS messages.
-
-[github](https://github.com/Bart-van-Ingen/telegraf_resource_monitor)
-
-**LGDXRobot Cloud**
-
-Robot management system for Automated Guided Vehicles (AGVs), designed with a focus on flexibility and security. It can monitor the status of robots in real-time and manage automated tasks for transportation and logistics.
-
-[github](https://github.com/yukaitung/lgdxrobot-cloud)
+| Title | Description | Links |
+| ------------- | ------------- | ------------- |
+|**OpenTelemetry** | A production-grade integration library for instrumenting ROS2 (Robot Operating System 2) applications with OpenTelemetry distributed tracing and observability capabilities. | [github](https://github.com/szobov/ros-opentelemetry)|
+|**R'DASH** | R’DASH (Robot Information Telemetry Transport Dashboard) is a cross-platform dashboard for real-time robot data visualization. | [github](https://github.com/vamsi-karnam/rdash)|
+|**ros2plot** | terminal-based, real-time plotting tool for ROS2 topics | [github](https://github.com/jeminism/ros2plot)|
+|**ROSboard** | ROS node that runs a web server on your robot. Run the node, point your web browser at http://your-robot-ip:8888/ and you get nice visualizations. | [github](https://github.com/dheera/rosboard)|
+|**ros2_teleoperation** | ROS2 package implementing a teleoperation interface using QT. | [github](https://github.com/CDonosoK/ros2_teleoperation)|
+|**Telegraf Resource Monitor** | A ROS 2 package that integrates Telegraf with ROS 2 to monitor system resources and publish them as ROS messages. | [github](https://github.com/Bart-van-Ingen/telegraf_resource_monitor)|
+|**LGDXRobot Cloud** | Robot management system for Automated Guided Vehicles (AGVs), designed with a focus on flexibility and security. It can monitor the status of robots in real-time and manage automated tasks for transportation and logistics. | [github](https://github.com/yukaitung/lgdxrobot-cloud)|
 
 ## 👁️ Perception 
 
