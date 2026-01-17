@@ -376,29 +376,12 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 ## 👷 Development tools
 
 | Title | Description | Link |
-| ------------- | ------------- | ------------- | 
-| **ROS 2 Project Builder** | 
-CLI-based tool that automates the creation of ROS 2 packages and node structures. | [github](https://github.com/Madwesh-india/ros2-project-builder)|
-|**launch_graph** | ROS 2 tool that visualizes the structure of your launch files. It recursively finds included launch files and node actions, then generates a visual graph using Graphviz. | 
-[github](https://github.com/ijnek/launch_graph)|
-
-**rsl**
-
-RSL is a collection of C++17 utilities for ROS projects.
-
-[github](https://github.com/PickNikRobotics/RSL)
-
-**ROS 2 Environment Manager for VS Code**
-
-Visual Studio Code extension that helps you manage isolated ROS2 environments with ease — start, stop, switch, and interact with them directly from your editor.
-
-[github](https://github.com/SakshayMahna/ros2env)
-
-**ament_ruff**
-
-Python linting and formatting based on ruff with ament integration.
-
-[github](https://github.com/swri-robotics/ament_ruff)
+| ------------- | --------- | ---------- | 
+| **ROS 2 Project Builder** | CLI-based tool that automates the creation of ROS 2 packages and node structures. |[github](https://github.com/Madwesh-india/ros2-project-builder)|
+|**launch_graph** | ROS 2 tool that visualizes the structure of your launch files. It recursively finds included launch files and node actions, then generates a visual graph using Graphviz.|[github](https://github.com/ijnek/launch_graph)|
+|**rsl**|RSL is a collection of C++17 utilities for ROS projects.|[github](https://github.com/PickNikRobotics/RSL)|
+|**ROS 2 Environment Manager for VS Code**|Visual Studio Code extension that helps you manage isolated ROS2 environments with ease — start, stop, switch, and interact with them directly from your editor.|[github](https://github.com/SakshayMahna/ros2env)|
+|**ament_ruff**|Python linting and formatting based on ruff with ament integration.|[github](https://github.com/swri-robotics/ament_ruff)|
 
 
 ## ✅ Testing 
