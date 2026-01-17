@@ -375,17 +375,12 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 
 ## 👷 Development tools
 
-**ROS 2 Project Builder**
-
-CLI-based tool that automates the creation of ROS 2 packages and node structures.
-
-[github](https://github.com/Madwesh-india/ros2-project-builder)
-
-**launch_graph**
-
-ROS 2 tool that visualizes the structure of your launch files. It recursively finds included launch files and node actions, then generates a visual graph using Graphviz.
-
-[github](https://github.com/ijnek/launch_graph)
+| Title | Description | Link |
+| ------------- | ------------- |
+**ROS 2 Project Builder** | 
+CLI-based tool that automates the creation of ROS 2 packages and node structures. | [github](https://github.com/Madwesh-india/ros2-project-builder)|
+|**launch_graph** | ROS 2 tool that visualizes the structure of your launch files. It recursively finds included launch files and node actions, then generates a visual graph using Graphviz. | 
+[github](https://github.com/ijnek/launch_graph)|
 
 **rsl**
 
