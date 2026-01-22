@@ -120,6 +120,13 @@ ROS 2 nodes for performing multiple vision tasks—such as object detection, sem
 
 [github](https://github.com/Raessan/dinov3_ros)
 
+**ROS 2 YOLOs-CPP**
+
+Production-grade, lifecycle-managed ROS 2 nodes for Object Detection, Segmentation, Pose, OBB, and Classification using YOLOs-CPP.
+
+[github](https://github.com/Geekgineer/ros2_yolos_cpp)
+
+
 **robovision_ros2**
 
 Examples for an introduction to Robot Vision.
