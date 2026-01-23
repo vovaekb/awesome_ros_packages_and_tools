@@ -5,25 +5,12 @@
 
 
 ## 📞 Messages, topics
-**topic_tools**
 
-Tools for directing, throttling, selecting, and otherwise manipulating ROS 2 topics at a meta-level. 
-
-[github](https://github.com/ros-tooling/topic_tools)
-
-**flex_sync**
-
-ROS2 package with headers-only library that implements a message synchronization filter
-
-[github](https://github.com/ros-misc-utilities/flex_sync)
-
-**proto2ros**
-
-Tool providing an interoperability bridge between Protobuf messages and ROS messages. proto2ros generates ROS 2 message definitions and bi-directional conversion code directly from .proto files.
-
-[Discourse](https://discourse.openrobotics.org/t/easier-protobuf-and-ros-2-integration/51712)
-
-[github](https://github.com/bdaiinstitute/proto2ros)
+| Title | Description | Link |
+| ------------- | --------- | ---------- |
+|**topic_tools** | Tools for directing, throttling, selecting, and otherwise manipulating ROS 2 topics at a meta-level. | [github](https://github.com/ros-tooling/topic_tools)|
+|**flex_sync** | ROS2 package with headers-only library that implements a message synchronization filter | [github](https://github.com/ros-misc-utilities/flex_sync)|
+|**proto2ros** | Tool providing an interoperability bridge between Protobuf messages and ROS messages. proto2ros generates ROS 2 message definitions and bi-directional conversion code directly from .proto files. | [Discourse](https://discourse.openrobotics.org/t/easier-protobuf-and-ros-2-integration/51712), [github](https://github.com/bdaiinstitute/proto2ros)|
 
 ## Nodes, services
 
@@ -240,30 +227,10 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 
 ## 👜 Work with bag files
 
-**bag2mesh**
-
-powerful, standalone Python tool designed to convert ROS Bag files (specifically from RGB-D cameras like Intel RealSense) into high-quality 3D Meshes (.ply).
-
-[github](https://github.com/alex9978/bag2mesh)
-
-
-**ROS2 Bag Manager**
-
-Simple, web-based tool for managing ROS2 bag files. Built with FastAPI and HTMX for a clean, responsive interface.
-
-[github](https://github.com/ilisparrow/ros2bag_manager)
-
-[Discourse](https://discourse.openrobotics.org/t/announcement-ros2-bag-manager/51772)
-
-**ros2_unbag**
-
-A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.
-
-[github](https://github.com/ika-rwth-aachen/ros2_unbag/tree/main)
-
-**ros2bag_tools**
-
-[github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/AIT-Assistive-Autonomous-Systems/ros2bag_tools&ved=2ahUKEwiEt8X9qt-MAxX9QvEDHfCuMMIQjjh6BAgrEAE&usg=AOvVaw0xUwam50-vry_bime_V8us)
+|**bag2mesh** | Powerful, standalone Python tool designed to convert ROS Bag files (specifically from RGB-D cameras like Intel RealSense) into high-quality 3D Meshes (.ply). | [github](https://github.com/alex9978/bag2mesh)|
+|**ROS2 Bag Manager** | Simple, web-based tool for managing ROS2 bag files. Built with FastAPI and HTMX for a clean, responsive interface. | [github](https://github.com/ilisparrow/ros2bag_manager), [Discourse](https://discourse.openrobotics.org/t/announcement-ros2-bag-manager/51772)|
+|**ros2_unbag** | A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type. | [github](https://github.com/ika-rwth-aachen/ros2_unbag/tree/main)|
+|**ros2bag_tools** | [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/AIT-Assistive-Autonomous-Systems/ros2bag_tools&ved=2ahUKEwiEt8X9qt-MAxX9QvEDHfCuMMIQjjh6BAgrEAE&usg=AOvVaw0xUwam50-vry_bime_V8us)|
 
 
 ## 👱🤖 Human-Robot Interaction 
