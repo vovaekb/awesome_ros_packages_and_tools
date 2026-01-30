@@ -39,6 +39,7 @@ This package provides a set of simple math utilities to work with angles.
 ## 🔍 Introspection, debugging
 | Title | Description | Links |
 | ------------- | ------------- | ------------- |
+|**breadcrumb**|ROS2 graph static analysis tool that works with cake and clingwrap. | [github](https://github.com/greenforge-labs/breadcrumb) |
 |**Tf_tree_terminal** | Simple ROS 2 Python tool that prints the current TF tree to your terminal using a recursive "folder-like" structure. | [github](https://github.com/Tanneguydv/tf_tree_terminal) , [Discourse](https://discourse.openrobotics.org/t/tf-tree-terminal/51494) |
 |**ros2_tracing** | | [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)|
 
@@ -227,6 +228,8 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 
 ## 👜 Work with bag files
 
+| Title | Description | Links |
+| ------------- | ------------- | ------------- |
 |**bag2mesh** | Powerful, standalone Python tool designed to convert ROS Bag files (specifically from RGB-D cameras like Intel RealSense) into high-quality 3D Meshes (.ply). | [github](https://github.com/alex9978/bag2mesh)|
 |**ROS2 Bag Manager** | Simple, web-based tool for managing ROS2 bag files. Built with FastAPI and HTMX for a clean, responsive interface. | [github](https://github.com/ilisparrow/ros2bag_manager), [Discourse](https://discourse.openrobotics.org/t/announcement-ros2-bag-manager/51772)|
 |**ros2_unbag** | A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type. | [github](https://github.com/ika-rwth-aachen/ros2_unbag/tree/main)|
