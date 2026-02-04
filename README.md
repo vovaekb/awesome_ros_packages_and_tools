@@ -319,6 +319,13 @@ ROS 2 Unit Tests Framework.
 
 ## Language models
 
+**ROS2 RAG**
+
+ROS2 lifecycle node implementing a RAG (Retrieval-Augmented Generation) system
+
+[github](https://github.com/aitor-ibarguren/ros2_rag)
+
+
 **ROS MCP Server 🧠⇄🤖**
 
 Connect AI models like Claude & GPT with robots using MCP and ROS.
