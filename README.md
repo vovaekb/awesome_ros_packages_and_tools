@@ -240,6 +240,7 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 ## 👱🤖 Human-Robot Interaction 
 
 **ROSGPT**
+
 ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you are interested in integrating LLM in your robotics projects.
 
 [github](https://github.com/aniskoubaa/rosgpt)
