@@ -59,6 +59,12 @@ This package provides a set of simple math utilities to work with angles.
 
 ## 👁️ Perception 
 
+**Surround Vision for ROS 2**
+
+A surround-view visualisation stack for ROS 2 Jazzy. The package fuses four fisheye cameras, renders a calibrated top-down view, and overlays a textured 3D vehicle model.
+
+[github](https://github.com/JeyP4/SurroundVisionROS2)
+
 **Focus Peaking ROS2**
 
 ROS 2 package assists in manually focusing lenses on machine vision cameras and evaluating image sharpness. It highlights sharp edges directly in the image display, allowing users to visually determine focus quality and identify which parts of the scene are in focus.
@@ -102,6 +108,13 @@ Universal calibration toolbox for assisted, target-based multi-sensor calibratio
 OpenCV Applications with ROS2
 
 [github](https://github.com/jeffreyttc/opencv_ros2)
+
+**SAM3 ROS Wrapper**
+
+ROS wrapper for SAM3 (Segment Anything Model 3), compatible with both ROS1 and ROS2.
+
+[github](https://github.com/SanghyunPark01/sam3_ros_wrapper)
+
 
 **dinov3_ros**
 
