@@ -53,6 +53,7 @@ This package provides a set of simple math utilities to work with angles.
 |**R'DASH** | R’DASH (Robot Information Telemetry Transport Dashboard) is a cross-platform dashboard for real-time robot data visualization. | [github](https://github.com/vamsi-karnam/rdash)|
 |**ros2plot** | terminal-based, real-time plotting tool for ROS2 topics | [github](https://github.com/jeminism/ros2plot)|
 |**ROSboard** | ROS node that runs a web server on your robot. Run the node, point your web browser at http://your-robot-ip:8888/ and you get nice visualizations. | [github](https://github.com/dheera/rosboard)|
+|**TeleopXR**| Transform your VR/AR headset into a powerful, precise robot controller. |[github](https://github.com/qrafty-ai/teleop_xr)|
 |**ros2_teleoperation** | ROS2 package implementing a teleoperation interface using QT. | [github](https://github.com/CDonosoK/ros2_teleoperation)|
 |**Telegraf Resource Monitor** | A ROS 2 package that integrates Telegraf with ROS 2 to monitor system resources and publish them as ROS messages. | [github](https://github.com/Bart-van-Ingen/telegraf_resource_monitor)|
 |**LGDXRobot Cloud** | Robot management system for Automated Guided Vehicles (AGVs), designed with a focus on flexibility and security. It can monitor the status of robots in real-time and manage automated tasks for transportation and logistics. | [github](https://github.com/yukaitung/lgdxrobot-cloud)|
