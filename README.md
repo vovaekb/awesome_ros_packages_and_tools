@@ -36,10 +36,11 @@ This package provides a set of simple math utilities to work with angles.
 |**diagnostic_remote_logging** | Package allows to log diagnostics data from ROS 2 systems directly to an InfluxDB. This enables long-term trend analysis, visualisation in Grafana, and makes it easier to monitor larger deployments across multiple systems. | [Discourse](https://discourse.ros.org/t/diagnostic-remote-logging-announcement/43696), [github](https://github.com/ros/diagnostics/tree/ros2-humble/diagnostic_remote_logging)|
 
 
-## 🔍 Introspection, debugging
+## 🔍 Introspection, diagnostics, debugging
 | Title | Description | Links |
 | ------------- | ------------- | ------------- |
 |**breadcrumb**|ROS2 graph static analysis tool that works with cake and clingwrap. | [github](https://github.com/greenforge-labs/breadcrumb) |
+|**ros2_medkit**|Automotive-grade diagnostics for ROS 2 robots.| [github](https://github.com/selfpatch/ros2_medkit) |
 |**Tf_tree_terminal** | Simple ROS 2 Python tool that prints the current TF tree to your terminal using a recursive "folder-like" structure. | [github](https://github.com/Tanneguydv/tf_tree_terminal) , [Discourse](https://discourse.openrobotics.org/t/tf-tree-terminal/51494) |
 |**ros2_tracing** | | [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)|
 |**PlotJuggler**|tool to visualize time series that is fast, powerful and intuitive.|[github](https://github.com/facontidavide/PlotJuggler)|
