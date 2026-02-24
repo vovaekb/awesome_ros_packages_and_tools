@@ -260,6 +260,11 @@ ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you ar
 
 [github](https://github.com/aniskoubaa/rosgpt)
 
+**RosClaw**
+
+RosClaw connects OpenClaw to ROS2 (the Robot Operating System) through an intelligent plugin layer
+
+[github](https://github.com/PlaiPin/rosclaw)
 
 ## 🎲 Robot simulation,modelling
 
