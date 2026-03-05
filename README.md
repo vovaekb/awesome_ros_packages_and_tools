@@ -400,6 +400,12 @@ Collection of ROS packages that accelerate common robotics tasks on their hardwa
 [Discourse](https://discourse.openrobotics.org/t/ros2-packages-based-on-qualcomm-devices/51245)
 [github](https://github.com/qualcomm-qrb-ros)
 
+**Servo Control Interface for ROS 2**
+
+A comprehensive, low-latency interface for controlling a physical servo motor via an Arduino Serial connection within the ROS 2 ecosystem.
+
+[github](https://github.com/dilip-2006/servo)
+
 **Crosstalk**
 
 small single-header C++ 17 library to facilitate communication between microcontrollers and host computers over serial connections.
