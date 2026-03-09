@@ -164,6 +164,13 @@ A configurable C++ library for point cloud processing built on top of the Point 
 
 [github](https://github.com/Muhammad540/pcl-processing-pipeline)
 
+**GSeg3D**
+
+High-Precision Grid-Based Ground Segmentation for Safety-Critical Autonomous Driving and Robotics Applications.
+
+[github](https://github.com/dfki-ric/ground_segmentation)
+
+
 **Perception Vault**
 
 Comprehensive and extensible perception framework designed to handle the full spectrum of sensor data required in modern robotics and autonomous systems. It provides such nodes like Camera RTSP Streamer, LiDAR PointCloud Filters, Lidar Euclidean Cluster etc.
