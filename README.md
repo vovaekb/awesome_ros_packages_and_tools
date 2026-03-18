@@ -263,6 +263,12 @@ ROS2 module to try to prohibit rectangular robots from driving into obstacles (P
 
 ## 👱🤖 Human-Robot Interaction 
 
+**Agent ROS Bridge**
+
+Universal ROS1/ROS2 bridge for AI agents to control robots and embodied intelligence systems. It speaks WebSocket, MQTT, and gRPC on the agent side, and ROS1/ROS2 on the robot side — with JWT auth, agent memory, safety confirmation, and fleet orchestration built in.
+
+[github](https://github.com/webthree549-bot/agent-ros-bridge)
+
 **ROSGPT**
 
 ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you are interested in integrating LLM in your robotics projects.
