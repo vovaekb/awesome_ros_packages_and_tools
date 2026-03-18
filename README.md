@@ -269,6 +269,12 @@ ChatGPT Interface for ROS2 for Human-Robot Interaction. Useful package if you ar
 
 [github](https://github.com/aniskoubaa/rosgpt)
 
+**ROS2 Clean Architecture Environment**
+
+Extensive set of Claude Code skills and rules for robotics engineers working with ROS 2. It has a set of rules and skills on architecture, node communication, TF transforms, launch configuration, messaging patterns, and best practices to build robotics systems.
+
+[github](https://github.com/harunkurtdev/ros2-claude-code-template/)
+
 **RosClaw**
 
 RosClaw connects OpenClaw to ROS2 (the Robot Operating System) through an intelligent plugin layer
