@@ -61,6 +61,14 @@ This package provides a set of simple math utilities to work with angles.
 |**Telegraf Resource Monitor** | A ROS 2 package that integrates Telegraf with ROS 2 to monitor system resources and publish them as ROS messages. | [github](https://github.com/Bart-van-Ingen/telegraf_resource_monitor)|
 |**LGDXRobot Cloud** | Robot management system for Automated Guided Vehicles (AGVs), designed with a focus on flexibility and security. It can monitor the status of robots in real-time and manage automated tasks for transportation and logistics. | [github](https://github.com/yukaitung/lgdxrobot-cloud)|
 
+## Networking, multi-robot communication
+
+**ROS 2 Cross-Platform Network Fixer**
+
+Automates the complex network configuration that makes ROS 2 DDS discovery work across WSL2, Docker, corporate/school networks, and multi-machine setups — without requiring you to read hours of DDS documentation.
+
+[github](https://github.com/Krymorn/ros2_network_fixer)
+
 ## 👁️ Perception 
 
 **Surround Vision for ROS 2**
@@ -157,6 +165,12 @@ ROS2 wrapper for Tensorflow aloowing to load pretrained neural networks and perf
 [github](https://github.com/alsora/ros2-tensorflow)
 
 ## ☁️ Point clouds
+
+**POLKA - Multi-LiDAR fusion node for ROS 2**
+
+Multi-LiDAR fusion node for ROS 2 that merges any mix of PointCloud2 and LaserScan sources into a unified output, with optional CUDA GPU acceleration.
+
+[github](https://github.com/Pana1v/polka)
 
 **PCL Point Cloud Processing Pipeline**
 
