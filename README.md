@@ -451,6 +451,12 @@ ROS2 client library Golang wrapper.
 
 [github](https://github.com/merlindrones/rclgo)
 
+**Copper Runtime & SDK**
+
+Operating system for robots - build, run, and replay your entire robot deterministically.
+
+[github](https://github.com/copper-project/copper-rs)
+
 ## 1️⃣ ROS1
 **MiniROS cpp distribution**
 
