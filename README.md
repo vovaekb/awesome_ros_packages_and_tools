@@ -43,7 +43,7 @@ This package provides a set of simple math utilities to work with angles.
 |**breadcrumb**|ROS2 graph static analysis tool that works with cake and clingwrap. | [github](https://github.com/greenforge-labs/breadcrumb) |
 |**ros2_medkit**|Automotive-grade diagnostics for ROS 2 robots.| [github](https://github.com/selfpatch/ros2_medkit) |
 |**Tf_tree_terminal** | Simple ROS 2 Python tool that prints the current TF tree to your terminal using a recursive "folder-like" structure. | [github](https://github.com/Tanneguydv/tf_tree_terminal) , [Discourse](https://discourse.openrobotics.org/t/tf-tree-terminal/51494) |
-|**ros2_tracing** | | [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)|
+|**ros2_tracing** | Provides tracing instrumentation for the core ROS 2 packages | [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/ros2/ros2_tracing&ved=2ahUKEwjwl6uCk9-MAxXDQvEDHYv2HmQQjjh6BAgKEAE&usg=AOvVaw2YXUWIwf_nh0O9rkhi870h)|
 |**PlotJuggler**|tool to visualize time series that is fast, powerful and intuitive.|[github](https://github.com/facontidavide/PlotJuggler)|
 |**terminal_pcl_visualizer** | A high-performance, real-time 3D Point Cloud visualizer for your terminal. Built with ROS 2 and FTXUI, it allows you to visualize point clouds and control robots directly from your CLI with near-zero latency. |[github](https://github.com/nathanshankar/terminal_pcl_visualizer)|
 
