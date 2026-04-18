@@ -140,6 +140,11 @@ Production-grade, lifecycle-managed ROS 2 nodes for Object Detection, Segmentati
 
 [github](https://github.com/Geekgineer/ros2_yolos_cpp)
 
+**ROS 2 OpenCV Face Tracker: Zero-Latency Edge Perception**
+
+A hyper-optimized, real-time computer vision node for ROS 2 that achieves zero-latency face tracking by bypassing standard middleware serialization bottlenecks.
+
+[github](https://github.com/abinaabey2006)
 
 **robovision_ros2**
 
