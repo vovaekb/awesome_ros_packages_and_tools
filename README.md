@@ -161,6 +161,7 @@ ROS 2 Phone Camera Object Detection with YOLO (and Visualization)
 
 ROS 2 wrap for YOLO models from Ultralytics to perform object detection and tracking, instance segmentation, human pose estimation and Oriented Bounding Box (OBB).
 
+
 [github](https://github.com/mgonzs13/yolo_ros)
 
 **ros2-tensorflow**
