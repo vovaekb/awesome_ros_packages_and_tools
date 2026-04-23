@@ -472,6 +472,13 @@ ROS2 client library Golang wrapper.
 
 [github](https://github.com/merlindrones/rclgo)
 
+**swift-ros2**
+
+Native Swift client library for ROS 2. Publishes and subscribes over Zenoh (via zenoh-pico) or DDS (via CycloneDDS) without a bridge, without pulling in the full ROS 2 stack.
+
+[github](https://github.com/youtalk/swift-ros2)
+
+
 **Copper Runtime & SDK**
 
 Operating system for robots - build, run, and replay your entire robot deterministically.
