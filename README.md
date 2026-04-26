@@ -346,6 +346,7 @@ modern header-only C++ library designed for mobile robotics and navigation. Its 
 
 | Title | Description | Link |
 | ------------- | --------- | ---------- | 
+|**ros2_console_tools**| terminal-first toolbox for ROS 2 runtime inspection, visualization, and operator workflows. |[github](https://github.com/nilseuropa/ros2_console_tools)|
 |**rostree**| Explore ROS 2 package dependencies from the command line (CLI, TUI, library). | [github](https://github.com/guilyx/rostree) |
 |**synchros2** | synchros2 enables a different, at times simpler approach to ROS 2 programming, particularly for those that come with a ROS 1 background. | [github](https://github.com/bdaiinstitute/synchros2)|
 |**robotdatapy** | Package designed to make accessing and manipulating robot/geometric data easy in Python. | [github](https://github.com/mbpeterson70/robotdatapy)|
