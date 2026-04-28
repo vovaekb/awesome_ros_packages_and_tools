@@ -334,6 +334,8 @@ State-of-the-art, web-based visual environment engineered for the seamless creat
 |**urdf-viz** | Visualize URDF(Unified Robot Description Format) file. Viewer works on Windows/MacOS/Linux | [github](https://github.com/openrr/urdf-viz)|
 |**rqt_frame_editor_plugin** | rqt_frame_editor_plugin allows for easily manipulating frames very quickly by dragging them, changing parents, relative positions etc. | [github](https://github.com/ipa320/rqt_frame_editor_plugin)|
 |**ROSplat** | The Online ROS2-Based Gaussian Splatting-Enabled Visualizer | [github](https://github.com/shadygm/ROSplat), [Discourse](https://discourse.openrobotics.org/t/goodbye-rqt-hello-rqml-new-release/51697)|
+|**RVizSplat**| Rendering 3D Gaussian Splats in RViz2 | [github](https://github.com/RVizSplat/RVizSplat)|
+|**Mesh Tools**| Tools and Messages for Annotated 3D Triangle Meshes in ROS  | [github]([https://github.com/RVizSplat/RVizSplat](https://github.com/naturerobots/mesh_tools))|
 
 ## 🧮  Mathematics, numeric operations
 **refx**
