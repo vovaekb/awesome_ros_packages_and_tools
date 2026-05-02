@@ -252,9 +252,15 @@ Coverage Path Planning for ROS2 Robots. Extends the Fields2Cover (F2C) library, 
 
 **FlexCloud**
 
-modular tool for direct georeferencing and drift correction of point cloud maps. It enables the georeferencing of an existing point cloud map created only from inertial sensor data (e.g. LiDAR) by the use of the corresponding GNSS data.
+Modular tool for direct georeferencing and drift correction of point cloud maps. It enables the georeferencing of an existing point cloud map created only from inertial sensor data (e.g. LiDAR) by the use of the corresponding GNSS data.
 
 [github](https://github.com/TUMFTM/FlexCloud)
+
+**VoxelNav — Real-time Semantic Voxel Mapping for ROS2**
+
+VoxelNav turns 3D sensor data into a voxel grid and can attach semantic labels to those voxels.
+
+[github](https://www.reddit.com/r/ROS/s/fTbdQ8OkGR)
 
 **mogi_trajectory_server**
 
