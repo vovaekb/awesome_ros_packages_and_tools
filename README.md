@@ -69,6 +69,14 @@ Automates the complex network configuration that makes ROS 2 DDS discovery work 
 
 [github](https://github.com/Krymorn/ros2_network_fixer)
 
+## 🛡️ Security, safety 
+
+**ROS 2 Kinematic Guard**
+
+Lightweight safety middleware for ROS 2 mobile robots.
+
+[github](https://github.com/ZC502/ros2_kinematic_guard)
+
 ## 👁️ Perception 
 
 **Surround Vision for ROS 2**
