@@ -460,6 +460,12 @@ Collection of ROS packages that accelerate common robotics tasks on their hardwa
 [Discourse](https://discourse.openrobotics.org/t/ros2-packages-based-on-qualcomm-devices/51245)
 [github](https://github.com/qualcomm-qrb-ros)
 
+**oxide_gnss**
+
+A Rust-based ROS 2 GNSS driver for u-blox receivers (ZED-F9P focus) with an integrated NTRIP client and optional integrity monitoring.
+
+[github](https://github.com/greenforge-labs/oxide_gnss)
+
 **Servo Control Interface for ROS 2**
 
 A comprehensive, low-latency interface for controlling a physical servo motor via an Arduino Serial connection within the ROS 2 ecosystem.
