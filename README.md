@@ -380,6 +380,11 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 
 [github](https://github.com/VedantC2307/ros2-android-sensor-bridge)
 
+## >_  Terminal based tools
+| Title | Description | Link |
+| ------------- | --------- | ---------- |
+|**TermViz2**| A terminal-based ROS 2 visualizer. Renders maps, laser scans, point clouds, poses, paths, images, and markers directly in the terminal using half-block characters | [github](https://github.com/matijazigic/termviz2) |
+
 
 ## 👷 Development tools
 
