@@ -509,6 +509,12 @@ Native Swift client library for ROS 2. Publishes and subscribes over Zenoh (via 
 [github](https://github.com/youtalk/swift-ros2)
 
 
+**rclnodejs**
+
+Node.js client library for ROS 2 that provides comprehensive JavaScript and TypeScript APIs for developing ROS 2 solutions.
+
+[github](https://github.com/RobotWebTools/rclnodejs)
+
 **Copper Runtime & SDK**
 
 Operating system for robots - build, run, and replay your entire robot deterministically.
