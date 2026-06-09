@@ -515,6 +515,12 @@ Node.js client library for ROS 2 that provides comprehensive JavaScript and Type
 
 [github](https://github.com/RobotWebTools/rclnodejs)
 
+**tf2_rs**
+
+tf2_rs provides Rust bindings for a focused subset of ROS 2 TF2.
+
+[github](https://github.com/olingo99/tf2_rs)
+
 **Copper Runtime & SDK**
 
 Operating system for robots - build, run, and replay your entire robot deterministically.
