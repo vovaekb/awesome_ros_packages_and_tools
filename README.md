@@ -39,6 +39,7 @@ This package provides a set of simple math utilities to work with angles.
 ## 🔍 Introspection, diagnostics, debugging
 | Title | Description | Links |
 | ------------- | ------------- | ------------- |
+|**ros_tap**| Zero config telemetry tap for any ROS robot on your network.| [github](https://github.com/publu/ros_tap)|
 |**log_view**| ncurses text UI for viewing rosout logs. Receive, filter, and navigate through all published rosout log messages from within a terminal to support debugging a robot live. | [github](https://github.com/hatchbed/log_view) |
 |**breadcrumb**|ROS2 graph static analysis tool that works with cake and clingwrap. | [github](https://github.com/greenforge-labs/breadcrumb) |
 |**ros2_medkit**|Automotive-grade diagnostics for ROS 2 robots.| [github](https://github.com/selfpatch/ros2_medkit) |
