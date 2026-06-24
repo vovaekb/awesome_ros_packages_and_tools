@@ -327,6 +327,12 @@ RosClaw connects OpenClaw to ROS2 (the Robot Operating System) through an intell
 
 ## 🎲 Robot simulation,modelling
 
+**sw2robot**
+
+SolidWorks → robot (URDF) converter. Turn a SolidWorks assembly into a URDF, then clean it up in the browser.
+
+[github](https://github.com/jsk-ros-pkg/solidworks_urdf_exporter2)
+
 **Conveyor Simulation ROS 2 Package**
 
 ROS 2 package provides a simulation of a conveyor belt in Gazebo Harmonic with ROS 2 interface for control
