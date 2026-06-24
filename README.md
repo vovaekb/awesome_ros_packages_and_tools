@@ -53,6 +53,7 @@ This package provides a set of simple math utilities to work with angles.
 
 | Title | Description | Links |
 | ------------- | ------------- | ------------- |
+|**rosforge**| ROS2 workspace scaffolder + multi-machine diagnostics toolkit.|[github](https://github.com/emphiasarmlorn/ros2forge)|
 |**OpenTelemetry** | A production-grade integration library for instrumenting ROS2 (Robot Operating System 2) applications with OpenTelemetry distributed tracing and observability capabilities. | [github](https://github.com/szobov/ros-opentelemetry)|
 |**R'DASH** | R’DASH (Robot Information Telemetry Transport Dashboard) is a cross-platform dashboard for real-time robot data visualization. | [github](https://github.com/vamsi-karnam/rdash)|
 |**ros2plot** | terminal-based, real-time plotting tool for ROS2 topics | [github](https://github.com/jeminism/ros2plot)|
