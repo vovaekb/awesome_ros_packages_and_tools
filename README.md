@@ -73,6 +73,12 @@ Automates the complex network configuration that makes ROS 2 DDS discovery work 
 
 [github](https://github.com/Krymorn/ros2_network_fixer)
 
+**RoboShield**
+
+Embedded, lightweight Network Intrusion Detection System (NIDS) designed specifically for ROS 2 (RTPS/DDS) networks. It runs out-of-band on dedicated network appliances (such as the NanoPi R2S) to passively monitor, detect, and alert on cyber-physical threats without requiring modifications to the robot's onboard firmware or ROS 2 software stack.
+
+[github](https://github.com/Amin-Ahmed-G/robotshield)
+
 ## 🛡️ Security, safety 
 
 **ROS 2 Kinematic Guard**
