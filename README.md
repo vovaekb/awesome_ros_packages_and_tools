@@ -416,6 +416,14 @@ Package provides a ROS2 node that streams sensor data directly from an Android s
 
 ## ✅ Testing 
 
+**ros2_test_compose**
+
+Generate ROS 2 launch_test integration test suites from YAML — no boilerplate Python to write or maintain
+
+[github](https://github.com/will-44/ros2_test_compose)
+
+
+
 **rtest**
 
 ROS 2 Unit Tests Framework.
