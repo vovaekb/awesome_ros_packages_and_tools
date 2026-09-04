@@ -171,14 +171,7 @@ ROS2 Package for point cloud segmentation using PCL library. This repository con
 
 ## 👜 Work with bag files
 
-| Title | Description | Links |
-| ------------- | ------------- | ------------- |
-|**bag2mesh** | Powerful, standalone Python tool designed to convert ROS Bag files (specifically from RGB-D cameras like Intel RealSense) into high-quality 3D Meshes (.ply). | [github](https://github.com/alex9978/bag2mesh)|
-|**ROS2 Bag Manager** | Simple, web-based tool for managing ROS2 bag files. Built with FastAPI and HTMX for a clean, responsive interface. | [github](https://github.com/ilisparrow/ros2bag_manager), [Discourse](https://discourse.openrobotics.org/t/announcement-ros2-bag-manager/51772)|
-|**rospeek**|blazing-fast, cross-platform ROS 2 bag analyzer written in Rust.|[github](https://github.com/ktro2828/rosbag2peek)|
-|**ros2_unbag** | A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type. | [github](https://github.com/ika-rwth-aachen/ros2_unbag/tree/main)|
-|**ros2bag_tools** | Tool extensions for ros2bag cli | [github](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/AIT-Assistive-Autonomous-Systems/ros2bag_tools&ved=2ahUKEwiEt8X9qt-MAxX9QvEDHfCuMMIQjjh6BAgrEAE&usg=AOvVaw0xUwam50-vry_bime_V8us)|
-|**rosbag-resurrector** | A pandas-like data analysis tool for ROS 2 (MCAP) bag files | [github](https://github.com/vikramnagashoka/rosbag-resurrector)|
+[Localization, navigation](<Work with bag files.md>)
 
 
 ## 👱🤖 Human-Robot Interaction 
@@ -241,24 +234,7 @@ modern header-only C++ library designed for mobile robotics and navigation. Its 
 
 ## ⚙️ Useful tools
 
-| Title | Description | Link |
-| ------------- | --------- | ---------- | 
-|**ros2_console_tools**| terminal-first toolbox for ROS 2 runtime inspection, visualization, and operator workflows. |[github](https://github.com/nilseuropa/ros2_console_tools)|
-|**rostree**| Explore ROS 2 package dependencies from the command line (CLI, TUI, library). | [github](https://github.com/guilyx/rostree) |
-|**synchros2** | synchros2 enables a different, at times simpler approach to ROS 2 programming, particularly for those that come with a ROS 1 background. | [github](https://github.com/bdaiinstitute/synchros2)|
-|**robotdatapy** | Package designed to make accessing and manipulating robot/geometric data easy in Python. | [github](https://github.com/mbpeterson70/robotdatapy)|
-|**fri - Fuzzy ROS2 Introspection** | script - wrapper around fzf to make it easier to use ROS2 | [github](https://github.com/xuyuan/fri)|
-|**dynamic_reconfigure** | ROS 2 plugin that integrates with RViz2 to provide a GUI-based interface for dynamically reconfiguring ROS 2 node parameters. This tool allows users to list available nodes, inspect configurable parameters, and modify their values in real-time without restarting the nodes. | [github](https://github.com/shahjesal15/dynamic_reconfigure)|
-|**sdf_to_urdf** | A simple ROS 2 tool to convert SDF files to URDF using urdfdom and sdformat_urdf. | [github](https://github.com/andreasBihlmaier/sdf_to_urdf)|
-|**ros2mock** | Tool for mocking ROS 2 services and actions. | [github](https://github.com/taDachs/ros2mock)|
-|**ROS 2 Launch GUI** | Package provides a Graphical User Interface for ROS 2 Launch System, which allows you to visually monitor every process started by your ROS 2 launch file. | [github](https://github.com/rolker/ros2launch_gui)|
-
-**Mobile Sensor Bridge for ROS2**
-
-Package provides a ROS2 node that streams sensor data directly from an Android smartphone, including JPEG camera streaming (up to 30 FPS), spatial pose tracking, and bidirectional audio communication
-
-
-[github](https://github.com/VedantC2307/ros2-android-sensor-bridge)
+[Useful tools](<Useful tools.md>)
 
 ## >_  Terminal based tools
 | Title | Description | Link |
