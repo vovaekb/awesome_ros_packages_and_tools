@@ -2,6 +2,7 @@
 
 | Title | Description | Links |
 | ------------- | ------------- | ------------- |
+|**fastdds_transport_viz**| Shows which Fast DDS transport each ROS 2 topic is communicated over — UDPv4, UDPv6, TCP, shared memory (SHM) or zero-copy data-sharing — and why. | [github](https://github.com/atinfinity/fastdds_transport_viz)|
 |**ros2inspector**| Static ROS 2 architecture analysis, visualization, and policy checks.|[github](https://www.linkedin.com/feed/update/urn:li:activity:7488862298925809664?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7488862298925809664%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)|
 |**ros2probe**| Host-level observability for ROS 2 DDS traffic — without creating ROS 2 subscriptions. | [github](https://github.com/csi-dgist/ros2probe), [website](https://csi-dgist.github.io/ros2probe-page/), [paper](https://arxiv.org/abs/2606.10746) |
 |**ros_tap**| Zero config telemetry tap for any ROS robot on your network.| [github](https://github.com/publu/ros_tap)|
