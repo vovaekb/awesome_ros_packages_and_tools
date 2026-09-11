@@ -270,6 +270,12 @@ ROS 2 Unit Tests Framework.
 
 [github](https://github.com/Beam-and-Spyrosoft/rtest)
 
+**ros2_fault_injection**
+
+C++ ROS 2 framework for inserting controlled faults into robot topics, transforms, and services, then checking expected fault outcomes with scenario assertions.
+
+[github](https://github.com/reeceholland/ros2_fault_injection)
+
 ## Language models
 
 **ROS2 RAG**
