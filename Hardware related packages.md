@@ -6,6 +6,12 @@ Full software stack for running a dual IMX219-83 stereo camera module on an NVID
 
 [github]([https://github.com/frozenreboot/rplidar_ros2_driver](https://github.com/Lenna-Robotics-Research-Lab/Lenna-Stereo-Camera))
 
+**naviq_mts160_ros2**
+
+ROS 2 driver for the Naviq MTS160 magnetic guide sensor.
+
+[github](https://github.com/naviq-ch/naviq_mts160_ros2)
+
 **rplidar_ros2_driver**
 
 This is a heavily refactored, fault-tolerant ROS 2 driver for Slamtec RPLIDAR. Designed with a Lifecycle State Machine and Thread-Safe Architecture
