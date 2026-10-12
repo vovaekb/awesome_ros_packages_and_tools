@@ -1,5 +1,11 @@
 ## 🔌Hardware related packages
 
+**rokoko-ros2-bridge*
+
+A ROS 2 bridge for Rokoko Smartgloves solved-hand data.
+
+[github](https://github.com/Rokoko/rokoko-ros2-bridge)
+
 **Lenna Stereo Camera**
 
 Full software stack for running a dual IMX219-83 stereo camera module on an NVIDIA Jetson Orin Nano. It covers everything from raw dual-CSI capture to stereo calibration, disparity/depth estimation, IMU (ICM-20948) integration, and ROS 2 (Humble) nodes for publishing synchronized stereo images, camera info, IMU data, and computed depth.
