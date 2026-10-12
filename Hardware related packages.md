@@ -1,6 +1,6 @@
 ## 🔌Hardware related packages
 
-**rokoko-ros2-bridge*
+**rokoko-ros2-bridge**
 
 A ROS 2 bridge for Rokoko Smartgloves solved-hand data.
 
