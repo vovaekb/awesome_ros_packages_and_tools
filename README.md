@@ -249,7 +249,13 @@ An MCP (Model Context Protocol) server that provides tools and resources to cont
 
 [github](https://github.com/ajtudela/nav2_mcp_server)
 
-## 🔀 Async / threading
+## 🔀 Async / threading and processes
+
+**ros2_cuda_ipc**
+
+ros2_cuda_ipc lets ROS 2 processes share GPU-resident data without copying the full payload through host memory.
+
+[github](https://github.com/dskkato/ros2_cuda_ipc)
 
 **ICEY**
 
