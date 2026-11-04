@@ -236,6 +236,14 @@ ROS2 lifecycle node implementing a RAG (Retrieval-Augmented Generation) system
 
 [github](https://github.com/aitor-ibarguren/ros2_rag)
 
+**ros2_lingua**
+
+ROS 2 library that bridges the gap between large language models (LLMs) and real robot control
+
+[github](http://github.com/purahan/ros2_lingua)
+
+[Discourse](https://discourse.openrobotics.org/t/ros2-lingua-a-safe-dependency-aware-grounding-engine-for-llms/54645?u=vladimir_privalov)
+
 
 **ROS MCP Server 🧠⇄🤖**
 
