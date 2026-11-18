@@ -49,3 +49,10 @@ converts sensor_msgs/PointCloud2 LIDAR data to nav_msgs/OccupancyGrid 2D map dat
 ROS2 Package for point cloud segmentation using PCL library. This repository contains multiple segmentation algorithms for point clouds.
 
 [github](https://github.com/CDonosoK/ros2_pcl_segmentation)
+
+**limit_case_ros2**
+
+Detect silent depth failures on transparent objects, in ROS 2.
+
+[github](https://github.com/limit-case/ros2)
+[Discourse](https://discourse.openrobotics.org/t/limit-case-ros2-flag-silent-depth-failures-on-transparent-objects-jazzy-humble/59851)
