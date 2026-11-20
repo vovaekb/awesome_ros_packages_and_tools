@@ -1,5 +1,12 @@
 ## 🔌Hardware related packages
 
+**ROS 2 serial bridge**
+
+This repository aims to provide a starting point (and possibly canonical version) of a serial <-> ROS 2 bridge
+
+[github](https://github.com/osrf/ros2_serial_example)
+[Discourse](https://discourse.openrobotics.org/t/ros2serial-rosserial-style-communication-for-microcontrollers-on-ros-2-first-public-alpha/59990?u=vladimir_privalov)
+
 **rokoko-ros2-bridge**
 
 A ROS 2 bridge for Rokoko Smartgloves solved-hand data.
