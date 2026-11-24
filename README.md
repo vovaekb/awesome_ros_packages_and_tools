@@ -172,6 +172,13 @@ State-of-the-art, web-based visual environment engineered for the seamless creat
 
 [github](https://github.com/OpenLegged/URDF-Architect)
 
+**OpenDroneLab**
+
+Containerised PX4 v1.17 SITL, ROS 2 Jazzy and Gazebo Harmonic lab. Flies a C++ OFFBOARD square mission, optionally scores OpenVINS VIO and EKF2 with evo Umeyama RMSE against ground truth, and ships mcap bags plus a Foxglove layout.
+
+[github](https://github.com/palcode/opendronelab)
+[docs](https://palcode.github.io/opendronelab)
+
 
 ## 🖼️ Visualization, GUI
 
